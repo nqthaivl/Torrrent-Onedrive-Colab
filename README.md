@@ -1,7 +1,8 @@
 # Tạo nhanh ứng dụng colab bằng script
 
 
-## Fast torrent notebook[![Open In Colab](https://colab.research.google.com/github/nqthaivl/Torrrent-Onedrive-Colab/blob/main/T%E1%BA%A3i_Torrent_File_V%C3%A0o_Onedrive_1TouchPro.ipynb)
+## Fast torrent notebook[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakiyaa/simple-fast-torrent-downloader/blob/main/Simple%20%26%20Fast%20Torrent%20Downloader.ipynb)
+
 ## Credits
 * [Nguyễn Thái (**ME**)](www.nguyenthai.id.vn)
 <br><br>
