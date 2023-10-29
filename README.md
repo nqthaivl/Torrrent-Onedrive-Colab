@@ -21,6 +21,4 @@ rclone config file
 * [Video hướng dẫn từ youtube windows](https://www.youtube.com/watch?v=n8qghZC1Kuc)
   <br><br>
 ![2023-10-29 10 57 39](https://github.com/nqthaivl/Torrrent-Onedrive-Colab/assets/85541851/935228d5-907f-47b1-883b-cfea407293cc)
-<br>
-
 
